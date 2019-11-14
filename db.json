@@ -1,0 +1,289 @@
+{
+    "hotels": [
+        {
+            "hotelId": 1,
+            "name": "Hotel 1",
+            "desc": "Lorem Ipsum is Dummy Text",
+            "img": "hotel1",
+            "rooms": [
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 1,
+                    "checkIn": "2019/11/14",
+                    "checkOut": "2019/11/15",
+                    "price": 1500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 2,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 1500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 3,
+                    "checkIn": "2019/11/13",
+                    "checkOut": "2019/11/15",
+                    "price": 1500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 4,
+                    "checkIn": "2019/11/13",
+                    "checkOut": "2019/11/14",
+                    "price": 1500
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 5,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/20",
+                    "price": 2500
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 5,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 2500
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 7,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/17",
+                    "price": 2500
+                }
+            ]
+        },
+        {
+            "hotelId": 2,
+            "name": "Hotel 2",
+            "desc": "Hotel 2 Lorem ipsum dummy content",
+            "img": "hotel2",
+            "rooms": [
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 1,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/20",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 2,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 3,
+                    "checkIn": "2019/11/14",
+                    "checkOut": "2019/11/15",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 4,
+                    "checkIn": "2019/11/16",
+                    "checkOut": "2019/11/20",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 5,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/20",
+                    "price": 5000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 6,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 5000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 7,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 5000
+                }
+            ]
+        },
+        {
+            "hotelId": 3,
+            "name": "Hotel 3",
+            "desc": "Hotel 3 Lorem ipsum dummy content",
+            "img": "hotel3",
+            "rooms": [
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 1,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/20",
+                    "price": 500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 2,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 3,
+                    "checkIn": "2019/11/14",
+                    "checkOut": "2019/11/15",
+                    "price": 500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 4,
+                    "checkIn": "2019/11/16",
+                    "checkOut": "2019/11/20",
+                    "price": 500
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 5,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/20",
+                    "price": 2000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 6,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 2000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 7,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 2000
+                }
+            ]
+        },
+        {
+            "hotelId": 4,
+            "name": "Hotel 4",
+            "desc": "Hotel 4 Lorem ipsum dummy content",
+            "img": "hotel4",
+            "rooms": [
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 1,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/20",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 2,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 3,
+                    "checkIn": "2019/11/14",
+                    "checkOut": "2019/11/15",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 4,
+                    "checkIn": "2019/11/16",
+                    "checkOut": "2019/11/20",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 5,
+                    "checkIn": "2019/11/15",
+                    "checkOut": "2019/11/20",
+                    "price": 5000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 6,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 5000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 7,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 5000
+                }
+            ]
+        },
+        {
+            "hotelId": 5,
+            "name": "Hotel 5",
+            "desc": "Hotel 5 Lorem ipsum dummy content",
+            "img": "hotel5",
+            "rooms": [
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 1,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 2,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 3,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Deluxe",
+                    "roomNumber": 4,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 4500
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 5,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 5000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 6,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 5000
+                },
+                {
+                    "roomType": "Ultra Deluxe",
+                    "roomNumber": 7,
+                    "checkIn": "",
+                    "checkOut": "",
+                    "price": 5000
+                }
+            ]
+        }
+    ]
+}
